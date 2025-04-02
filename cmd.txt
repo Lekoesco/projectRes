@@ -1,0 +1,4 @@
+cd desktop/backend npm run dev
+
+
+cd desktop/frontend npm start
